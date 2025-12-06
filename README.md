@@ -9,7 +9,7 @@
 
 **BackupIntegrity-Verifier** is a **Python 3** tool built for DevOps and cloud storage teams to simulate and audit backup file integrity. It checks backup files for size consistency, hash mismatches, missing files, and staleness (files older than a configured threshold) — then generates a JSON report summarizing the health of your backup fleet.
 
------------------
+-----------------------
 
 ## 🛠 Tech & Languages
 
