@@ -37,7 +37,7 @@ Flow:
    - list of failures (filename + issues)  
 4. The JSON report can then be consumed by dashboards, CI/CD pipelines, or alert systems.
 
----
+----
 
 ## ▶️ Run BackupIntegrity-Verifier
 
