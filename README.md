@@ -19,7 +19,7 @@
 | Execution        | Script / Colab / Notebook  | Flexible runtime for testing or production  |
 | Logging          | Console output + JSON file | Real-time feedback and persisted audit      |
 
----------
+-------------
 
 ## 🌐 Architecture
 
